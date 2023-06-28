@@ -2,11 +2,7 @@
 
 We present on this page the supplementary material regarding the paper **ARCADE: a Framework for Integrated Management of Safety Assurance Information**.
 
-Paper published at [31st Requirements Engineering Conference, RE 2023](https://conf.researchr.org/home/RE-2023). Please cite as:
-
-<pre>
-C. Almendra and C. Silva, "ARCADE: a Framework for Integrated Management of Safety Assurance Information", 2023 IEEE 31st International Requirements Engineering Conference (RE), Hannover, Germany, 2023.
-</pre>
+Paper published at [31st Requirements Engineering Conference, RE 2023](https://conf.researchr.org/home/RE-2023). Please cite as: *C. Almendra and C. Silva, "ARCADE: a Framework for Integrated Management of Safety Assurance Information", 2023 IEEE 31st International Requirements Engineering Conference (RE), Hannover, Germany, 2023.*
 
 This article is part of the ARCADE Framework research project: <https://arcade-framework.github.io/>
 
