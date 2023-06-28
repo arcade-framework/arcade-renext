@@ -1,6 +1,12 @@
-# Supplementary Material for the paper "ARCADE: a Framework for Integrated Management of Safety Assurance Information"
+# Supplementary Material for the article "ARCADE: a Framework for Integrated Management of Safety Assurance Information"
 
-We present on this page the supplementary material regarding the paper *ARCADE: a Framework for Integrated Management of Safety Assurance Information*. Paper published at [31st Requirements Engineering Conference, RE 2023](https://conf.researchr.org/home/RE-2023).
+We present on this page the supplementary material regarding the paper *ARCADE: a Framework for Integrated Management of Safety Assurance Information*. Paper published at [31st Requirements Engineering Conference, RE 2023](https://conf.researchr.org/home/RE-2023). Please cite as:
+
+```
+C. Almendra and C. Silva, "ARCADE: a Framework for Integrated Management
+of Safety Assurance Information", 2023 IEEE 31st International Requirements
+Engineering Conference (RE), Hannover, Germany, 2023.
+```
 
 This article is part of the ARCADE Framework research project: <https://arcade-framework.github.io/>
 
@@ -11,7 +17,7 @@ This article is part of the ARCADE Framework research project: <https://arcade-f
 
 ### Abstract (of the paper)
 
-Assurance Case Development (ACD) is an emerging approach for demonstrating that a system is safe. A Safety Assurance Case (SAC) includes top-level claims for a property of a system (e.g., safety) and a structured argumentation that breaks down claims into supporting evidence. ACD is an effortful activity that relies on Project Management Information (PMI) and its associated traceability. It is challenging for developers to build SACs as they have to identify and gather the Safety Assurance Information (SAI) relevant to the argumentation and assess its consistency and completeness. However, regular PMI and SAI are likely managed separately. In this context, we designed the AssuRance CAse DEvelopment (ARCADE) framework to support the automated extraction and analysis of SAI from project management tools and the automated generation of SAC arguments. The main novelty of ARCADE is enabling the management of SAI together with PMI inside the regular management tools. Thus, ARCADE retrieves the combined information, performs consistency/completeness analysis, and generates SAC fragments. In this work, we present the design of ARCADE and its current implementation.
+Assurance Case Development is an emerging approach for demonstrating that a system is safe. An assurance case includes top-level claims for a property of a system (e.g., safety) and a structured argumentation that breaks down claims into supporting evidence. Its production is an effortful activity that relies on project information and its associated traceability. It is challenging for developers to build assurance cases as they have to identify and gather the project information relevant to the argumentation and assess its consistency and completeness. However, regular project information (e.g. requirements, design, rationale) and assurance-related information (e.g. hazard, causes, mitigation strategies) are likely managed separately. In this context, we designed the ARCADE framework to support the integration of assurance information together with regular information inside project management tools, and to perform automated consistency/completeness analysis and generation of assurance cases. Thus, our approach promotes early and continuous review of traceability information needed to produce assurance cases, while automating their construction. In this work, we present the design of the framework and its current implementation.
 
 ### Supplementary material
 
