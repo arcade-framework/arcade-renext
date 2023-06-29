@@ -15,11 +15,11 @@ Assurance Case Development is an emerging approach for demonstrating that a syst
 
 ### Preprint
 
-Link: <https://github.com/arcade-framework/arcade-overview/blob/master/Almendra_Silva_RENEXT_2023_preprint.pdf>
+Link: <https://github.com/arcade-framework/arcade-renext/blob/master/Almendra_Silva_RENEXT_2023_preprint.pdf>
 
 ### Supplementary material
 
-It presents more information on the ARCADE framework design and implementation. Link: <https://github.com/arcade-framework/arcade-overview/blob/master/Almendra_Silva_RENEXT_2023_SupplementaryMaterial.pdf>
+It presents more information on the ARCADE framework design and implementation. Link: <https://github.com/arcade-framework/arcade-renext/blob/master/Almendra_Silva_RENEXT_2023_SupplementaryMaterial.pdf>
 
 ## Since you are here...
 
