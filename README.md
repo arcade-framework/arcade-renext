@@ -1,4 +1,4 @@
-## Supplementary Material
+## Preprint & Supplementary Material
 
 We present on this page the supplementary material regarding the paper **ARCADE: a Framework for Integrated Management of Safety Assurance Information**.
 
@@ -15,13 +15,12 @@ Assurance Case Development is an emerging approach for demonstrating that a syst
 
 ### Preprint
 
-Link: <https://github.com/arcade-framework/arcade-renext/blob/main/Almendra_Silva_RENEXT_2023_preprint.pdf>
+**Article**: <https://github.com/arcade-framework/arcade-renext/blob/main/Almendra_Silva_RENEXT_2023_preprint.pdf>
 
-### Supplementary material
-
-It presents more information on the ARCADE framework design and implementation. Link: <https://github.com/arcade-framework/arcade-renext/blob/main/Almendra_Silva_RENEXT_2023_SupplementaryMaterial.pdf>
+**Supplementary material**: <https://github.com/arcade-framework/arcade-renext/blob/main/Almendra_Silva_RENEXT_2023_SupplementaryMaterial.pdf>
 
 ## Since you are here...
-
 If you work with Safety Assurance Cases, Requirements Engineering, or Safety-critical Systems development, please consider participating in the industry evaluation of the ARCADE: <https://arcade-framework.github.io/>
 
+## ARCADE Overview
+![Overview of ARCADE](https://github.com/arcade-framework/arcade-framework.github.io/blob/main/arcade-framework-overview.png)
