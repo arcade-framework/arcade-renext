@@ -23,4 +23,4 @@ Assurance Case Development is an emerging approach for demonstrating that a syst
 If you work with Safety Assurance Cases, Requirements Engineering, or Safety-critical Systems development, please consider participating in the industry evaluation of the ARCADE: <https://arcade-framework.github.io/>
 
 ## ARCADE Overview
-![Overview of ARCADE](https://github.com/arcade-framework/arcade-framework.github.io/blob/main/arcade-framework-overview.png)
+![](arcade-framework-overview.png)
